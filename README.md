@@ -1,6 +1,7 @@
 # Vbug
 
-Ialah software atau aplikasi android sederhana untuk membuat virus
+• Ialah software atau aplikasi android sederhana untuk membuat virus <br>
+• Pemasangan aplikasi Vbug aman , tetapi hasil package apk dari aplikasi Vbug tidak dianjurkan dipasang di perangkat pribadi
 
 Untuk memulai nya ketikkan saja " help "
 Lalu ada pilihan <br>
