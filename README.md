@@ -10,6 +10,9 @@ winvima > membuat virus untuk Windows <br>
 macvima > membuat virus untuk MacOs <br>
 linvima > membuat virus untuk Linux
 
+Cara pemakaian, misal memilih anvima (ketik 'anvima') lalu ada daftar virus , lalu pilih yang mana yang ingin di buat seperti contoh 
+Zipbomb maka ketikkan anvima z dan cek package yang telah dibuat di penyimpanan.
+
 
 <b><i>About
 Vbug - Virus maker for android
